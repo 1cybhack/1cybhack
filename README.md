@@ -1,31 +1,48 @@
-
-=============================================================================================================================
-
-![Screenshot-2025-04-12-131058][(https://i.postimg.cc/QMTw956X/Part-1.jpg](https://i.postimg.cc/8CCkLC9m/channel-banner.jpg))
----------------------
+![Screenshot-2025-04-12-13058](https://i.postimg.cc/8CCkLC9m/channel-banner.jpg)
 
 <div align="center">
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-# ⚡🚀 اهلاً بيك في CybHack 🚀⚡  
-### 👾 قناتك لتعليم البرمجة والأمن السيبراني 👾
+  <h1 style="font-size: 48px;">⚡🚀 اهلاً بيك في CybHack 🚀⚡</h1>
+  <h3 style="font-size: 36px;">👾 قناتك لتعليم البرمجة والأمن السيبراني 👾</h3>
 
-✨ لو نفسك تدخل عالم الهاكينج وتبقى محترف برمجة وأمان معلوماتي...  
-يبقى وصلت للمكان الصح 😎
-
+  <p style="font-size: 24px; line-height: 2;">✨ لو نفسك تدخل عالم الهاكينج وتبقى محترف برمجة وأمان معلوماتي...</p>  
+  <p style="font-size: 24px; line-height: 2;">يبقى وصلت للمكان الصح 😎</p>
 </div>
-## 🎯 هدفنا:
+<h2 style="font-size: 32px; text-align: center;">🎯 هدفنا:</h2>
+
 
 > إحنا مش بنعلمك كود وبس...  
 > إحنا بنجهزك تبقى هاكر محترف  
 > تفهم، تطبق، وتفكر بطريقة مختلفة 💡
-
-| الفئة | الأدوات |
-|------|---------|
-| 🧰 فحص الشبكات | Nmap, Wireshark |
-| 🔍 اختراق مواقع | Burp Suite, OWASP ZAP |
-| ⚔️ اختبار اختراق | Metasploit, Aircrack-ng |
-| 👁️ OSINT | TheHarvester, Recon-ng |
-| 🐍 سكريبتات | Python, Bash, PowerShell |
+<div align="center">
+<div style="text-align: center; margin: 50px;">
+  <table border="2" style="width: 80%; margin: 0 auto; text-align: center; border-collapse: collapse; font-size: 20px; box-shadow: 0 0 15px 5px rgba(0, 255, 0, 0.5);">
+    <tr>
+      <th style="padding: 15px; background-color: #f4f4f4; color: #00ff00; text-shadow: 0 0 10px #00ff00;">الفئة</th>
+      <th style="padding: 15px; background-color: #f4f4f4; color: #00ff00; text-shadow: 0 0 10px #00ff00;">الأدوات</th>
+    </tr>
+    <tr>
+      <td style="padding: 15px; color: #00ff00; text-shadow: 0 0 10px #00ff00;">🧰 فحص الشبكات</td>
+      <td style="padding: 15px; color: #00ff00; text-shadow: 0 0 10px #00ff00;">Nmap, Wireshark</td>
+    </tr>
+    <tr>
+      <td style="padding: 15px; color: #00ff00; text-shadow: 0 0 10px #00ff00;">🔍 اختراق مواقع</td>
+      <td style="padding: 15px; color: #00ff00; text-shadow: 0 0 10px #00ff00;">Burp Suite, OWASP ZAP</td>
+    </tr>
+    <tr>
+      <td style="padding: 15px; color: #00ff00; text-shadow: 0 0 10px #00ff00;">⚔️ اختبار اختراق</td>
+      <td style="padding: 15px; color: #00ff00; text-shadow: 0 0 10px #00ff00;">Metasploit, Aircrack-ng</td>
+    </tr>
+    <tr>
+      <td style="padding: 15px; color: #00ff00; text-shadow: 0 0 10px #00ff00;">👁️ OSINT</td>
+      <td style="padding: 15px; color: #00ff00; text-shadow: 0 0 10px #00ff00;">TheHarvester, Recon-ng</td>
+    </tr>
+    <tr>
+      <td style="padding: 15px; color: #00ff00; text-shadow: 0 0 10px #00ff00;">🐍 سكريبتات</td>
+      <td style="padding: 15px; color: #00ff00; text-shadow: 0 0 10px #00ff00;">Python, Bash, PowerShell</td>
+    </tr>
+  </table>
+</div>
+</div>
 
 ## 👥 عاوز تبقى واحد مننا؟
 
@@ -33,16 +50,22 @@
 ابعتلنا على الإيميل أو انضم لمجتمعنا على تليجرام
 
 
-*   🖥️  [قناتي]<p align="left"> </p>
-                    <a href="https://www.youtube.com/@Cyb-Hack" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-*   ✉️  اتواصل معي على [cybhack@onionmail.org](mailto:cybhack@onionmail.org)[](mailto:cybhack@onionmail.org)
-*   🚀 [Telegram](http://t.me/cyb_hack)[](http://t.me/cyb_hack)### مهارات 
+  
+<div align="center">
+
+  <a href="https://www.youtube.com/@Cyb-Hack" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="60" height="60" />
+  </picture>
+</a>
+<a href="http://t.me/cyb_hack" style="display: inline-block;">
+  <img src="https://i.postimg.cc/PfbxG0WZ/telegram.png" alt="Telegram icon" style="width: 60px; height: 60px; box-shadow: 0 0 5px rgba(0, 255, 255, 0.8); animation: glowing 1.5s ease-in-out infinite;">
+</a>
+
+</div>
+
 
 <div align="center">
 
